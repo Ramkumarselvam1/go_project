@@ -25,3 +25,6 @@ To run this project, install go locally using rpm:
   source ~/.bash_profile
 * $ check the Go version
   go version
+
+## How to run the project
+*  go run hello.go 
